@@ -12,6 +12,7 @@ public class App {
         }
         System.out.println(sha256hex(args[0]));
         System.out.println("hello from subash");
+        System.out.println("hello from subash");
     }
 
     public static String sha256hex(String input) {
